@@ -1,4 +1,4 @@
-# Visualizacao e Análise Exploratória de Dados
+# Visualização e Análise Exploratória de Dados
 
 A Visualização e Análise Exploratória de Dados (EDA) é uma abordagem que visa analisar conjuntos de dados de modo a resumir suas principais características, utilizando métodos visuais. Um modelo estatístico pode ser usado ou não neste processo, mas deve-se ter em conta que a Análise Exploratória tem como principal finalidade entenderr o que os dados podem nos dizer além da tarefa formal de modelagem ou teste de hipóteses. O conceito de análise exploratória de dados foi criado para encorajar estatísticos a explorar dados e formular hipóteses que pudessem levar a novas coletas de dados e experimentos.
 
